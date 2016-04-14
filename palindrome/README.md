@@ -1,5 +1,5 @@
-Palindrome Coding Challenge
-===========================
+Palindrome Challenge
+====================
 
 Write an API that searches [NASA patents](https://api.nasa.gov/api.html#patents) and determines the number of [palindromic](https://en.wikipedia.org/wiki/Palindrome) strings that can be created from inventor's name.
 
@@ -34,5 +34,4 @@ Response example:
 
 Constraints
 -----------
-
-* Choice of languages and frameworks is open. Utilization of JVM-based technology is a plus.
+Choice of languages, frameworks and libraries is open. Utilization of JVM-based technology is a plus.
